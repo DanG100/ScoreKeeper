@@ -4,3 +4,6 @@ A simple app that allows several users to score the same match at the same time.
 
 ## Install
 clone repo, open in android studio, generate google-services.json for firebase api access, build and install on devices.
+
+## Usage
+Ensure users are scoring the same match. Point values must be set at compile time.
